@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @chandanchirag11812444
-- 👀 I’m interested in programming languages and data structure and algorithm
-- 🌱 I’m currently pursuing BTECH from LPU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @chandanchirag
+- 👀 I’m interested in programming languages and Ethical Hacking.
+- 🌱 I’m currently pursuing B.Tech from LPU.
+-
 
 <!---
 chandanchirag11812444/chandanchirag11812444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
